@@ -1,10 +1,7 @@
 ﻿using EmployeeRepositoryPattern.Data;
 using EmployeeRepositoryPattern.Infrastructure;
 using EmployeeRepositoryPattern.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+
 
 namespace EmployeeRepositoryPattern.Repository
 {
